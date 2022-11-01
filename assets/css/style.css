@@ -941,6 +941,9 @@ section.section-show {
   .Projects-details .Projects-info {
     padding-top: 20px;
   }
+  .Experience .ex-mobile {
+    margin-top: 3rem;
+  }
 }
 
 /*--------------------------------------------------------------
